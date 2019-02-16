@@ -1,5 +1,6 @@
-# ArticlePublishing
-This is Asp .Net Core Mvc Code First Project and i used some features of Bootstrap, Css, Javascript and Ajax.
+# Article Publishing
+This is an Asp .Net Core Mvc Project. I developed using code first technique in EntityFramework and i used some features of Bootstrap, Css, Javascript and Ajax.
+
 In this project, There are four type of user that can use properties of system. These are visitors,registered users, admins and superadmin.
 
 Visitors: They just read articles, and can register to system.
