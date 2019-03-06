@@ -14,4 +14,4 @@ Super admin can use all system properties like admin and user, in addition they 
 
 After register system, if you enter real mail adress you will recieve an email about your register information. I will continue to develop project in next days.
 
-You can check the project from [here](http://infoproject.somee.com). But it may old version, becouse i will countinue to add new features.
+You can check the project from [here](http://articlepublishing.bparlak.com). But it may old version, becouse i will countinue to add new features.
